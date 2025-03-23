@@ -19,7 +19,7 @@ Here is an example of how to use this package:
 from Attention_Maps_Extraction import ViTForRegression, SpectrogramDataset, visualize_attention_maps, load_data
 import torch
 import os
-from torchvision import transforms  # Add this import
+from torchvision import transforms
 
 # User inputs
 data_dir = "path/to/spectrogram_images"
