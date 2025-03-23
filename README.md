@@ -4,6 +4,7 @@ To install the [`Attention-Maps-Extraction`](https://pypi.org/project/Attention-
 
 ```bash
 pip install Attention-Maps-Extraction
+```
 
 ---
 
@@ -41,3 +42,4 @@ model.eval()
 patch_contributions_dir = os.path.join(output_dir, "attention_maps")
 os.makedirs(patch_contributions_dir, exist_ok=True)
 visualize_attention_maps(model, dataloader, save_dir=patch_contributions_dir, device=device)
+```
