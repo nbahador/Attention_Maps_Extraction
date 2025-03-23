@@ -7,7 +7,7 @@ pip install Attention-Maps-Extraction
 ```
 ---
 
-<img src="https://github.com/nbahador/Attention_Maps_Extraction/raw/main/Example/Sample%20Generated%20Map.jpg" alt="Sample Generated Map" width="300" height="200" />
+<img src="https://github.com/nbahador/Attention_Maps_Extraction/raw/main/Example/Sample%20Generated%20Map.jpg" alt="Sample Generated Map" width="200" height="200" />
 
 ---
 
