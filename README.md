@@ -8,7 +8,8 @@ pip install Attention-Maps-Extraction
 ---
 
 ### Citation
-Bahador N. Mechanistic interpretability of fine-tuned vision transformers on distorted images: Decoding attention head behavior for transparent and trustworthy AI. arXiv [csLG]. Published online 24 March 2025. http://arxiv.org/abs/2503.18762. [[PDF]](https://arxiv.org/pdf/2503.18762)
+Bahador N. Mechanistic interpretability of fine-tuned vision transformers on distorted images: Decoding attention head behavior for transparent and trustworthy AI. arXiv [csLG]. Published online 24 March 2025. http://arxiv.org/abs/2503.18762. 
+[[PDF]](https://arxiv.org/pdf/2503.18762)
 
 ---
 
