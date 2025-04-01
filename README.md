@@ -1,4 +1,4 @@
-## Installation
+### Installation
 
 To install the [`Attention-Maps-Extraction`](https://pypi.org/project/Attention-Maps-Extraction/) package, run the following command:
 
@@ -7,18 +7,18 @@ pip install Attention-Maps-Extraction
 ```
 ---
 
-**Citation**  
+### Citation
 Bahador N. Mechanistic interpretability of fine-tuned vision transformers on distorted images: Decoding attention head behavior for transparent and trustworthy AI. arXiv [csLG]. Published online 24 March 2025. http://arxiv.org/abs/2503.18762. [[PDF]](https://arxiv.org/pdf/2503.18762)
 
 ---
 
-### Sample Generated Map
+#### Sample Generated Map
 
 <img src="https://github.com/nbahador/Attention_Maps_Extraction/raw/main/Example/Sample%20Generated%20Map.jpg" alt="Sample Generated Map" width="200" height="200" />
 
 ---
 
-### Usage Example
+#### Usage Example
 
 Here is an example of how to use this package:
 
