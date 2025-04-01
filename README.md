@@ -24,10 +24,11 @@ Bahador N. Mechanistic interpretability of fine-tuned vision transformers on dis
 
 Here is an example of how to use this package:
 
-🔗 Python Data Generation Package: https://lnkd.in/gVB6EUUV
-🔗 Download Dataset: https://lnkd.in/gzX5vfVq
-🔗 Download Trained Model: https://lnkd.in/gBgqriqa
-🔗 PyTorch Fine-Tuning Implementation: https://lnkd.in/gc4QEYNq
+#### Quick Links:
+- **Python Data Generation Package**: [Download here](https://lnkd.in/gVB6EUUV)
+- **Sample Dataset**: [Download here](https://lnkd.in/gzX5vfVq)
+- **Pre-trained Model**: [Download here](https://lnkd.in/gBgqriqa)
+- **PyTorch Fine-Tuning Code**: [View implementation](https://lnkd.in/gc4QEYNq)
 
 ```python
 from Attention_Maps_Extraction import ViTForRegression, SpectrogramDataset, visualize_attention_maps, load_data
